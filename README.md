@@ -2,7 +2,7 @@
 
 #
 
-<p align="center"> Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estou focada em aprimorar meus conhecimentos em desenvolvimento Front-end!
+<p align="center"> Sou estudante de Engenharia de Software e atualmente estou focada em aprimorar meus conhecimentos em dados!
 Estou sempre me dedicando a expandir constantemente meu conhecimento e buscando novas oportunidades de colaborar com equipes inovadoras e enfrentar novos desafios ⋅˚₊‧ ୨୧ ‧₊˚ ⋅
   
 #
